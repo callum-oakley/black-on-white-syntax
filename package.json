@@ -1,7 +1,7 @@
 {
   "name": "black-on-white-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Black text on a white background. Grey comments.",
   "keywords": [
     "syntax",
