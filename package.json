@@ -2,12 +2,14 @@
   "name": "black-on-white-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Black text on a white background. Grey comments.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "black",
+    "white"
   ],
-  "repository": "https://github.com/atom/black-on-white-syntax",
+  "repository": "https://github.com/hot-leaf-juice/black-on-white-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
